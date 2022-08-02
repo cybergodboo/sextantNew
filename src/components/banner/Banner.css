@@ -1,0 +1,39 @@
+
+.Banner .banner-info{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+
+.Banner .banner-info h1{
+    position: relative;
+    font-size: 3.5rem;
+    color: aqua;
+    font-family: sans-serif;
+    
+}
+
+.Banner .banner-info a{
+
+    position: relative;
+    text-decoration: none;
+    background: aqua;
+    color: antiquewhite;
+    padding: 10px 55px;
+    font-size: 20px;
+    font-family: sans-serif;
+    top:50px;
+
+}
+.card {
+    color:rgb(170, 149, 231) ;
+    top: 50px;
+    width: fit-content;
+    text-align: left;
+    position: absolute;
+    text-align:100vh;
+
+    
+}
